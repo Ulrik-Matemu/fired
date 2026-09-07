@@ -1,6 +1,6 @@
-# firefoo
+# Fired
 
-An Electron application with React and TypeScript
+An Electron application with React and TypeScript as GUI for Cloud Firestore
 
 ## Recommended IDE Setup
 
